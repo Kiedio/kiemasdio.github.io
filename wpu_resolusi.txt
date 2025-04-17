@@ -2,6 +2,6 @@ WPU RESOLUSI
 
 - Saya ingin saya konsisten untuk belajar WEB Programming
 - Membuat platform untuk pembelajaran WEB Programming
-- Membuat forum diskusi
 - Ingin memiliki keahlian fullstack-dev
 - Kolaborasi dengan team DevSphere
+- Membuat aplikasi sendiri
